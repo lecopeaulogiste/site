@@ -1,0 +1,58 @@
+/*Default Fonts*/
+@font-face { 
+	font-display: fallback; 
+	font-family: "seafont-semibold"; 
+	src: url("../font/seafont-semibold.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback; 
+	font-family: "seafont-medium"; 
+	src:url("../font/seafont-medium.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback; 
+	font-family: "seafont-regular"; 
+	src: url("../font/seafont-regular.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback; 
+	font-family: "seafont-thin"; 
+	src: url("../font/seafont-thin.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback; 
+	font-family: "ux-font-1568179320663"; 
+	src: url("../font/seafont-regular.woff2") format("woff2");
+} 
+@font-face { 
+	font-display: fallback;
+	font-family: "ux-font-1568179357581";  
+	src:url("../font/seafont-semibold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "ux-font-1531806071558";
+	src: url("../font/seafont-regular.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback;
+	font-family: "ux-font-1531806041397";  
+	src:url("../font/seafont-semibold.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback;
+	font-family: "ux-font-1629168960811";  
+	src:url("../font/seafont-semibold.woff2") format("woff2");
+}
+@font-face {
+	font-family: "ux-font-1629171215418";
+	src: url("../font/seafont-regular.woff2") format("woff2");
+}
+@font-face {
+	font-family: "ux-font-1630548862255";
+	src: url("../font/seafont-thin.woff2") format("woff2");
+}
+@font-face { 
+	font-display: fallback;
+	font-family: "ux-font-1637424848581";  
+	src:url("../font/seafont-medium.woff2") format("woff2");
+}
